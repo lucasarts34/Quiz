@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Questão do Quiz</title>
+</head>
+<body>
+    <h1>Questão do Quiz</h1>
+    <p>No processo de captação da luz pelo olho para a formação de imagens, estão envolvidas duas estruturas celulares: os cones e os bastonetes. Os cones são responsáveis por detectar a cor da luz, enquanto os bastonetes são sensíveis à quantidade de luz. A cor da luz está associada à sua frequência, e a intensidade luminosa, à quantidade de luz incidente.</p>
+    <p>Um fotógrafo que possui uma maior sensibilidade em seus cones provavelmente:</p>
+    <ul>
+        <li>A) Terá dificuldade em distinguir objetos em ambientes escuros.</li>
+        <li>B) Enxergará bem em ambientes mal iluminados.</li>
+        <li>C) Será mais suscetível ao daltonismo.</li>
+        <li>D) Perceberá cores fora do espectro do visível.</li>
+        <li>E) Necessitará de óculos para corrigir sua visão.</li>
+    </ul>
+    <h2>Gabarito:</h2>
+    <p>A resposta correta é a alternativa <strong>B) Enxergará bem em ambientes mal iluminados.</strong></p>
+</body>
+</html>
